@@ -1,0 +1,25 @@
+{
+  "name": "angoolar-hammer",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rufman/angoolar-hammer",
+  "authors": [
+    "Stephane Rufer <stephane.rufer@gmail.com>"
+  ],
+  "description": "This avails HammerJS to Angoolar projects.",
+  "keywords": [
+    "angoolar",
+    "angular",
+    "HammerJS",
+    "hammer",
+    "ngHammer",
+    "nghammer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
